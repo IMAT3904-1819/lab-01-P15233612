@@ -1,0 +1,10 @@
+configs
+{
+	fileName : "nanosuit"
+	elementType : OBJECT
+}
+configs
+{
+	fileName : "bck.jpg"
+	elementType : PICTURE
+}

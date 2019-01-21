@@ -1,0 +1,42 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{D1BAACD2-F91A-3952-B952-D1E165FCBAF6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BFB07F4B-F888-326B-B113-3700F765A8B1} = {BFB07F4B-F888-326B-B113-3700F765A8B1}
+		{6CA906CF-D453-3DE5-9B4B-64630B187609} = {6CA906CF-D453-3DE5-9B4B-64630B187609}
+		{CDD69162-EC57-36DA-877D-EDC87493C755} = {CDD69162-EC57-36DA-877D-EDC87493C755}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcxproj", "{BFB07F4B-F888-326B-B113-3700F765A8B1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glm_shared", "glm_shared.vcxproj", "{6CA906CF-D453-3DE5-9B4B-64630B187609}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BFB07F4B-F888-326B-B113-3700F765A8B1} = {BFB07F4B-F888-326B-B113-3700F765A8B1}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "glm_static", "glm_static.vcxproj", "{CDD69162-EC57-36DA-877D-EDC87493C755}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BFB07F4B-F888-326B-B113-3700F765A8B1} = {BFB07F4B-F888-326B-B113-3700F765A8B1}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BAACD2-F91A-3952-B952-D1E165FCBAF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFB07F4B-F888-326B-B113-3700F765A8B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFB07F4B-F888-326B-B113-3700F765A8B1}.Debug|Win32.Build.0 = Debug|Win32
+		{6CA906CF-D453-3DE5-9B4B-64630B187609}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6CA906CF-D453-3DE5-9B4B-64630B187609}.Debug|Win32.Build.0 = Debug|Win32
+		{CDD69162-EC57-36DA-877D-EDC87493C755}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CDD69162-EC57-36DA-877D-EDC87493C755}.Debug|Win32.Build.0 = Debug|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E39699C-6081-3001-BEF6-EF88D4C36B42}
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
