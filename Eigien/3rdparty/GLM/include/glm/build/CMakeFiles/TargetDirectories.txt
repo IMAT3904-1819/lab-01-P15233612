@@ -1,0 +1,4 @@
+G:/study/GameEigine/3rdparty/GLM/include/glm/build/CMakeFiles/glm_static.dir
+G:/study/GameEigine/3rdparty/GLM/include/glm/build/CMakeFiles/glm_shared.dir
+G:/study/GameEigine/3rdparty/GLM/include/glm/build/CMakeFiles/ALL_BUILD.dir
+G:/study/GameEigine/3rdparty/GLM/include/glm/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+E:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCInformation.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCXXInformation.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/CMakeGenericSystem.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/CMakeInitializeConfigs.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/CMakeLanguageInformation.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/CMakeRCInformation.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInformation.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/Compiler/MSVC-C.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/Compiler/MSVC-CXX.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/Platform/Windows-MSVC-C.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/Platform/Windows-MSVC-CXX.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/Platform/Windows-MSVC.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/Platform/Windows.cmake
+E:/Program Files/CMake/share/cmake-3.13/Modules/Platform/WindowsPaths.cmake
+G:/study/GameEigine/3rdparty/GLM/include/glm/CMakeLists.txt
+G:/study/GameEigine/3rdparty/GLM/include/glm/build/CMakeFiles/3.13.2/CMakeCCompiler.cmake
+G:/study/GameEigine/3rdparty/GLM/include/glm/build/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake
+G:/study/GameEigine/3rdparty/GLM/include/glm/build/CMakeFiles/3.13.2/CMakeRCCompiler.cmake
+G:/study/GameEigine/3rdparty/GLM/include/glm/build/CMakeFiles/3.13.2/CMakeSystem.cmake

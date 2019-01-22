@@ -1,0 +1,18 @@
+syntax = "proto2";
+
+package game;
+
+message GameObjectConfigItem
+{
+	enum Type {
+		OBJECT = 0;
+		PICTURE = 1;
+	}
+    required string fileName = 1;
+	required Type elementType = 2;
+}
+
+message GameConfig
+{
+    repeated GameObjectConfigItem configs = 1;
+}

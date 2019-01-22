@@ -1,0 +1,11 @@
+prefix=G:\study/assimp
+exec_prefix=G:\study/assimp/bin
+libdir=G:\study/assimp/lib
+includedir=G:\study/assimp/include/assimp
+
+Name: Assimp
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 3.3.1
+Libs: -L${libdir} -lassimp
+Libs.private:  
+Cflags: -I${includedir}
