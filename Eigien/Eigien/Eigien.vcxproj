@@ -90,7 +90,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;GOOGLE_GLOG_DLL_DECL=;GLOG_NO_ABBREVIATED_SEVERITIES;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;GOOGLE_GLOG_DLL_DECL=;GLOG_NO_ABBREVIATED_SEVERITIES;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
       <AdditionalIncludeDirectories>$(ProjectDir)..\3rdparty\assimp\include;$(ProjectDir)..\3rdparty\freetype-gl\include;$(ProjectDir)..\3rdparty\gflags\include;$(ProjectDir)..\3rdparty\GLEW\include;$(ProjectDir)..\3rdparty\GLFW\include;$(ProjectDir)..\3rdparty\GLM\include;$(ProjectDir)..\3rdparty\glog\include;$(ProjectDir)..\3rdparty\protobuf\include;$(ProjectDir)..\3rdparty\SOIL\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>

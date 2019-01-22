@@ -1,4 +1,1 @@
-﻿  UnitTest.cpp
-    正在创建库 G:\study\Eigien\Debug\UnitTest.lib 和对象 G:\study\Eigien\Debug\UnitTest.exp
-Eigien.lib(glew.obj) : warning LNK4099: 未找到 PDB“glew_s.pdb”(使用“Eigien.lib(glew.obj)”或在“G:\study\Eigien\Debug\glew_s.pdb”中寻找)；正在链接对象，如同没有调试信息一样
-  UnitTest.vcxproj -> G:\study\Eigien\Debug\UnitTest.exe
+﻿  UnitTest.vcxproj -> H:\Desktop\New folder (3)\Eigien\Debug\UnitTest.exe

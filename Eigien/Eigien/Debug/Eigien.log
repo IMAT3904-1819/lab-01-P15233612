@@ -1,26 +1,30 @@
 ﻿  CGameEigine.cpp
-g:\study\eigien\eigien\mesh.h(69): warning C4244: “参数”: 从“GLuint”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\protobufio.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-g:\study\eigien\eigien\cgameeigine.cpp(103): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(104): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(108): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(109): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(111): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(112): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(119): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(223): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(278): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(279): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(280): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
-g:\study\eigien\eigien\cgameeigine.cpp(519): warning C4305: “参数”: 从“double”到“GLfloat”截断
-g:\study\eigien\eigien\cgameeigine.cpp(520): warning C4305: “参数”: 从“double”到“GLfloat”截断
-g:\study\eigien\eigien\cgameeigine.cpp(527): warning C4305: “参数”: 从“double”到“GLfloat”截断
-g:\study\eigien\eigien\cgameeigine.cpp(528): warning C4305: “参数”: 从“double”到“GLfloat”截断
+h:\desktop\new folder (3)\eigien\eigien\src\mesh.h(69): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(103): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(104): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(111): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(112): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(119): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(278): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(279): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(280): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(519): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(520): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(527): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\new folder (3)\eigien\eigien\src\cgameeigine.cpp(528): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
   GameObject.pb.cc
   ProtobufIO.cpp
-  正在生成代码...
-libprotobufd.lib(arenastring.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
-libprotobufd.lib(error_listener.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
-Shlwapi.lib(SHLWAPI.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 opengl32.lib(OPENGL32.dll) 中定义；已忽略第二个定义
-Shlwapi.lib(SHLWAPI.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
-  Eigien.vcxproj -> G:\study\Eigien\Debug\Eigien.lib
+  Generating Code...
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in assimp.lib(assimp.dll); second definition ignored
+opengl32.lib(OPENGL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+libprotobufd.lib(arenastring.obj) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+libprotobufd.lib(error_listener.obj) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+Shlwapi.lib(SHLWAPI.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in assimp.lib(assimp.dll); second definition ignored
+Shlwapi.lib(SHLWAPI.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+CGameEigine.obj : warning LNK4006: "public: enum aiReturn __thiscall aiMaterial::GetTexture(enum aiTextureType,unsigned int,struct aiString *,enum aiTextureMapping *,unsigned int *,float *,enum aiTextureOp *,enum aiTextureMapMode *)const " (?GetTexture@aiMaterial@@QBE?AW4aiReturn@@W4aiTextureType@@IPAUaiString@@PAW4aiTextureMapping@@PAIPAMPAW4aiTextureOp@@PAW4aiTextureMapMode@@@Z) already defined in assimp.lib(assimp.dll); second definition ignored
+CGameEigine.obj : warning LNK4006: "public: unsigned int __thiscall aiMaterial::GetTextureCount(enum aiTextureType)const " (?GetTextureCount@aiMaterial@@QBEIW4aiTextureType@@@Z) already defined in assimp.lib(assimp.dll); second definition ignored
+CGameEigine.obj : warning LNK4006: "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) already defined in assimp.lib(assimp.dll); second definition ignored
+  Eigien.vcxproj -> H:\Desktop\New folder (3)\Eigien\Debug\Eigien.lib
