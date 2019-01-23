@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  CCamera.cpp
+h:\gamingtest\eigien\component\src\ccamera.cpp(2): fatal error C1083: Cannot open include file: 'CCamera.hpp': No such file or directory
+  CHealthComponent.cpp
+h:\gamingtest\eigien\component\src\chealthcomponent.cpp(2): fatal error C1083: Cannot open include file: 'CHealthComponent.hpp': No such file or directory
+  ComponentFactory.cpp
+h:\gamingtest\eigien\component\src\componentfactory.cpp(4): fatal error C1083: Cannot open include file: 'ComponentFactory.h': No such file or directory
+  CTransformComponent.cpp
+h:\gamingtest\eigien\component\src\ctransformcomponent.cpp(3): fatal error C1083: Cannot open include file: 'CTransformComponent.hpp': No such file or directory
+  IComponent.cpp
+h:\gamingtest\eigien\component\src\icomponent.cpp(3): fatal error C1083: Cannot open include file: 'IComponent.h': No such file or directory
+  Generating Code...
