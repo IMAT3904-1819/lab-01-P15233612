@@ -1,0 +1,4 @@
+1.	Select debug and x86, Select the UnitTest project and set as StartUp Project;
+2.	then retarget project if necessary (my windows sdk version is 10.0.17763.0) ;
+3.	then rebulid Component project first, then Eigien project, then UnitTest project;
+4.	then run UnitTest project.
